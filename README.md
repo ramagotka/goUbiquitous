@@ -2,8 +2,7 @@ goUbiquitios
 ===================================
 This project is made on the base of Advanced Android Sample App which  synchronizes weather information from OpenWeatherMap on Android Phones and Tablets. Used in the Udacity Advanced Android course.
 
-This project add watch face for Android Wear. Sunshine application is sharing weather data using Wearable Data Layer API.
-Watch face works on square and round Android Wear smartwatches, displays time, temperature and graphics
+This project adds watch face for Android Wear. It shares the weather data with Sunshine application using Wearable Data Layer API.Watch face is optimized for both square and round Android Wear smartwatches. It displays time, temperature and icon representing weather.
 
 License
 -------
